@@ -20,3 +20,5 @@ documento.adicionar_linha("Primeira linha do texto")
 documento.adicionar_linha("Segunda linha do texto")
 documento.adicionar_linha("Terceira linha do texto")
 print(documento.ler_documento())
+
+
